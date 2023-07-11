@@ -195,7 +195,7 @@ section:nth-child(2n) {
 
 #about #profile-image {
   transition: 1s;
-  width: 17%;
+  width: 17%; 
   height: auto;
   min-width: 240px;
   display: block;
